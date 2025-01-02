@@ -1,0 +1,3 @@
+# Lua nil value handling and error management
+
+This repository demonstrates a common error in Lua programming: improper handling of `nil` values.  The `bug.lua` file shows code that directly attempts to use a `nil` value, causing an error. The solution shows how to efficiently handle `nil` values to prevent unexpected behavior and crashes.  This example highlights the importance of explicitly checking for `nil` before using a variable and utilizing appropriate error handling mechanisms. 
